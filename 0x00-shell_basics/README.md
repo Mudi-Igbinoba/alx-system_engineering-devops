@@ -15,3 +15,8 @@
 13. [**12-file_type**](12-file_type) - This prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 14. [**13-symbolic_link**](13-symbolic_link) - This creates a symbolic link to /bin/ls, named __ls__.
 15. [**14-copy_html**](14-copy_html) - This copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+16. [**100-lets_move**](100-lets_move) - This moves all files beginning with an uppercase letter to the directory /tmp/u.
+17. [**101-clean_emacs**](101-clean_emacs) - This deletes all files in the current working directory that end with the character ~.
+18. [**102-tree**](102-tree) - This creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+19. [**103-commas**](103-commas) - This lists all the files and directories of the current directory, separated by commas (,).
+20. [**school.mgc**](school.mgc) - This creates a magic file school.mgc that can be used with the command file to detect School data files.
